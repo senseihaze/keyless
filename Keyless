@@ -1,1 +1,2 @@
-true
+local Keyless = true
+return Keyless
